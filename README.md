@@ -11,14 +11,13 @@ This app needs a server(some servlet program) and data to show all the contents.
 
 
 
-<p>
-<p>
-<p>
+<br><br><br>
 There is a snapshot to show a game page in this app. Here is the code of this page fragment:
 Only 2 functions inside for such a complicated page. That's the power of decoupling!
 
 
 /*****************************************************************************
+
 package com.jingtian.market.fragment;
 import java.util.List;
 
