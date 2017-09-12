@@ -9,6 +9,11 @@ Other features in this app include: ActionBar, Searching, Drawer, Value Animatio
 
 This app needs a server(some servlet program) and data to show all the contents. But the code I uploaded is enough to demostrates insights. Holders, Listviews, ViewPagers, Adapters, Protocols(for downloading and parsing Json) are all separated.
 
+
+
+
+
+
 There is a snapshot to show a game page in this app. Here is the code of this page fragment:
 Only 2 functions inside for such a complicated page. That's the power of decoupling!
 
